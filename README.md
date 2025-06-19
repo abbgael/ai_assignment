@@ -45,13 +45,13 @@ Currently supports analysis of:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cryptobuddy-chatbot.git
-cd cryptobuddy-chatbot
+git clone https://github.com/abbgael/ai_assignment.git
+cd ai_assignment
 ```
 
 2. Run the chatbot:
 ```bash
-python cryptobuddy.py
+python crypto.py
 ```
 
 ### Usage Examples
